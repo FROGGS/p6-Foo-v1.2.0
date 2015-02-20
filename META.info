@@ -1,5 +1,5 @@
 {
-    "name" : "Foo",
+    "name" : "Advanced-Foo",
     "version" : "1.2.0",
     "author" : "github:FROGGS",
     "description" : "Test for installation same named dists simultaneously",
